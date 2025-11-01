@@ -1,47 +1,25 @@
-# 🧠 Wireless Network Security Assessment
+# 🧠 Wireless Network Security Assessment (Home Lab)
 
 **Author:** Lakpa Sherpa  
-**Course:** CIS 4560 – Wireless Network Security  
-**Date:** March 14, 2025  
+**Date:** March 2025  
 
 ---
 
 ## 📋 Project Overview
-This project involved analyzing and assessing multiple wireless networks to identify security configurations, potential vulnerabilities, and improvement plans.
-
-The assessment covered:
-- Network discovery and SSID identification  
-- Security type analysis (WPA2, WPA3, Open)  
-- Router configuration review  
-- Recommendations for securing home networks  
+This self-guided project replicates a wireless network assessment similar to what’s done in academic cybersecurity labs.  
+I used my home lab environment to analyze Wi-Fi security settings, identify common vulnerabilities, and apply secure configuration practices.
 
 ---
 
 ## 🔍 Key Findings
-- **WPA2** was used — strong but less secure than WPA3.  
-- **WPS enabled** — potential attack surface for brute-force attacks.  
-- **Default admin password not changed** — high security risk.  
-- **Default SSID in use** — makes the network easily identifiable.
+- **WPA2** security was in use — strong but could be improved by upgrading to **WPA3**.  
+- **WPS** was enabled, which can be exploited by attackers.  
+- **Default admin credentials** and SSID increased the attack surface.  
 
 ---
 
-## 🛡️ Recommendations
-1. Disable WPS to prevent unauthorized access.  
-2. Change the default admin password to a strong, unique one.  
-3. Personalize the SSID to reduce exposure.  
-4. Upgrade to **WPA3** if supported.  
-5. Optionally hide the SSID for extra privacy.
-
----
-
-## 📂 Files Included
-- `report.pdf` — Full project report (original class submission)
-- `README.md` — Summary and highlights
-
----
-
-## 💡 Tools & Skills Demonstrated
-- Wireless network scanning
-- Security assessment methodology
-- Router configuration analysis
-- Technical documentation and reporting
+## 🛡️ Mitigation Steps
+1. Disabled WPS to reduce brute-force risk.  
+2. Changed default admin password to a strong unique passphrase.  
+3. Personalized the SSID to make it less predictable.  
+4. Planned to upgrade to WPA3 for improved encryption.  
