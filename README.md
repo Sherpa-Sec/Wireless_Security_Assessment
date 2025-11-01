@@ -23,3 +23,5 @@ I used my home lab environment to analyze Wi-Fi security settings, identify comm
 2. Changed default admin password to a strong unique passphrase.  
 3. Personalized the SSID to make it less predictable.  
 4. Planned to upgrade to WPA3 for improved encryption.  
+
+📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
