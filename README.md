@@ -6,8 +6,7 @@
 ---
 
 ## 📋 Project Overview
-This self-guided project replicates a wireless network assessment similar to what’s done in academic cybersecurity labs.  
-I used my home lab environment to analyze Wi-Fi security settings, identify common vulnerabilities, and apply secure configuration practices.
+This self-directed project focuses on evaluating wireless network security in a controlled home lab environment. I analyzed Wi-Fi configurations, identified common vulnerabilities, and implemented secure settings to strengthen the overall network security posture.
 
 ---
 
