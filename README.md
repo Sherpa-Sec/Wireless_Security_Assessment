@@ -1,6 +1,6 @@
 # 🧠 Wireless Network Security Assessment (Home Lab)
 
-**Author:** Lakpa Sherpa  
+**Created by:** Lakpa Sherpa  
 **Date:** November 2025  
 
 ---
