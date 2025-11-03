@@ -6,21 +6,24 @@
 ---
 
 ## 📋 Project Overview
-This self-directed project focuses on evaluating wireless network security in a controlled home lab environment. I analyzed Wi-Fi configurations, identified common vulnerabilities, and implemented secure settings to strengthen the overall network security posture.
+Assessed a home Wi-Fi network and compared it to public networks. Identified security gaps, evaluated risks, and applied security controls following basic wireless security best practices.
 
 ---
 
 ## 🔍 Key Findings
-- **WPA2** security was in use — strong but could be improved by upgrading to **WPA3**.  
-- **WPS** was enabled, which can be exploited by attackers.  
-- **Default admin credentials** and SSID increased the attack surface.  
-
+- Network was secured with **WPA2**, but **WPA3** was not enabled.
+- **WPS** was turned on, exposing the network to brute-force PIN attacks.
+- **Default router admin credentials** and **default SSID** were still in use.
+- Public networks observed had **open authentication** and no encryption.
 ---
 
 ## 🛡️ Mitigation Steps
-1. Disabled WPS to reduce brute-force risk.  
-2. Changed default admin password to a strong unique passphrase.  
-3. Personalized the SSID to make it less predictable.  
-4. Planned to upgrade to WPA3 for improved encryption.  
+- Turned off **WPS** to reduce attack surface.
+- Changed the **default admin password** to a strong passphrase.
+- Renamed SSID to a **non-default, non-identifiable** name.
+- Planned upgrade to **WPA3** for stronger encryption.
+
+- ## ✅ Result
+Improved wireless network security posture and reduced risk of unauthorized access.
 
 📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
