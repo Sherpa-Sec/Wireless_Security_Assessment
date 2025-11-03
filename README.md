@@ -21,4 +21,11 @@ Assessed a home Wi-Fi network and compared it to public networks. Identified sec
 ## ✅ Result
 - Improved wireless network security posture and reduced risk of unauthorized access.
 
+### Evidence Preview
+<img src="screenshots/wps-after.png" width="350">
+<img src="screenshots/ssid-change.png" width="350">
+
+📎 Full screenshots included in the full report.
+
+
 📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
