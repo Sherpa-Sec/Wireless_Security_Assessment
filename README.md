@@ -22,7 +22,7 @@ Assessed a home Wi-Fi network and compared it to public networks. Identified sec
 - Improved wireless network security posture and reduced risk of unauthorized access.
 
 Skills demonstrated:
-Network hardening, Wi-Fi security, WPA3 upgrade, device inventory review, router configuration, report writing, security controls, risk reduction, documentation.
+Network hardening, Wi-Fi security, WPA3 upgrade, device inventory review, router configuration, report writing, security controls, risk reduction, and documentation.
 
 📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
-📂 **Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix.pdf)
+📂 **Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix_Redacted.pdf)
