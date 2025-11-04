@@ -25,4 +25,4 @@ Skills demonstrated:
 Network hardening, Wi-Fi security, WPA3 upgrade, device inventory review, router configuration, report writing, security controls, risk reduction, documentation.
 
 📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
-📂 **Screenshots & Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix.pdf)
+📂 **Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix.pdf)
