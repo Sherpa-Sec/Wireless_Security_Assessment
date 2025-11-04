@@ -31,5 +31,5 @@ Assessed a home Wi-Fi network and compared it to public networks. Identified sec
 🧠 Security Concepts | Attack surface reduction, privacy awareness, risk evaluation |
 
 ### 📎 Supporting Files
-📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Redacted.pdf)
+📄 **Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Report.pdf)
 📂 **Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix_Redacted.pdf)
