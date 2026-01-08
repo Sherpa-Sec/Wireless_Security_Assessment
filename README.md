@@ -1,4 +1,4 @@
-# 📶 Wireless Security Assessment
+# 📶 Home Wi-Fi Security Assessment
 
 ## Overview
 Conducted a security assessment of a home Wi-Fi network and compared it against common public networks. Identified misconfigurations, evaluated risks, and applied basic wireless security best practices to reduce exposure.
