@@ -1,9 +1,7 @@
 # 📶 Wireless Security Assessment (Home Lab)
 
 ## Overview
-Assessed a home Wi-Fi network and compared it to public networks. Identified security gaps, evaluated risks, and applied security controls following basic wireless security best practices.
-
-<Br>
+Conducted a security assessment of a home Wi-Fi network and compared it against common public networks. Identified misconfigurations, evaluated risks, and applied basic wireless security best practices to reduce exposure.
 
 ## Table of Contents
 
@@ -14,15 +12,11 @@ Assessed a home Wi-Fi network and compared it to public networks. Identified sec
  5\. Skills Demonstrated <Br>
  6\. Supporting Files <Br>
 
-<Br>
-
 ## Key Findings
-- Network was secured with **WPA2**, but **WPA3** was not enabled.
-- **WPS** was turned on, exposing the network to brute-force PIN attacks.
-- **Default router admin credentials** and **default SSID** were still in use.
-- Public networks observed had **open authentication** and no encryption.
-
-<Br>
+- Network used **WPA2** encryption; **WPA3** was not enabled
+- **WPS** was enabled, increasing the risk of brute-force PIN attacks
+- Default router admin credentials and default SSID were still in use
+- Public Wi-Fi networks observed used open authentication with no encryption
 
 ## Mitigation Steps
 - Turned off **WPS** to reduce attack surface.
@@ -30,22 +24,28 @@ Assessed a home Wi-Fi network and compared it to public networks. Identified sec
 - Renamed SSID to a **non-default, non-identifiable** name.
 - Planned upgrade to **WPA3** for stronger encryption.
 
-<Br>
-
 ## Result
-- Improved wireless network security posture and reduced risk of unauthorized access.
-
-<Br>
+- Reduced risk of unauthorized access
+- Improved overall wireless security posture
+- Applied secure baseline configurations aligned with best practices
 
 ## Skills Demonstrated
-| Category | Skills |
-|---|---|
-Network Hardening | WPA3 enablement, WPS disablement, SSID privacy |
-Wi-Fi Security | Encryption standards, secure defaults, access control |
-Configuration | Router settings, strong password setup, device review |
-Documentation | Security report writing, screenshots appendix, remediation notes |
-Security Concepts | Attack surface reduction, privacy awareness, risk evaluation |
 
-### Supporting Files
-**Full Report:** [View PDF](./Wireless_Network_Security_Assessment_Report.pdf)
-**Appendix:** [View Appendix](./Wireless_Network_Security_Assessment_Appendix_Redacted.pdf)
+| Order | Skill Area        | Focus                            |
+| ----- | ----------------- | -------------------------------- |
+| 1     | Wi-Fi Security    | Checking encryption settings     |
+| 2     | Network Hardening | Turning off unsafe features      |
+| 3     | Access Control    | Securing router login            |
+| 4     | Risk Review       | Finding weak points in Wi-Fi     |
+| 5     | Secure Setup      | Applying safer defaults          |
+| 6     | Threat Awareness  | Understanding public Wi-Fi risks |
+| 7     | Documentation     | Writing clear security notes     |
+| 8     | Validation        | Reviewing configuration changes  |
+
+
+### Supporting Files & Quick Links
+
+| Order | Document            | Description                               | Link                                                                 |
+| ----- | ------------------- | ----------------------------------------- | -------------------------------------------------------------------- |
+| 1     | Full Report         | Wireless security assessment and findings | [Open](./Wireless_Network_Security_Assessment_Report.pdf)            |
+| 2     | Evidence (Redacted) | Screenshots and supporting materials      | [Open](./Wireless_Network_Security_Assessment_Appendix_Redacted.pdf) |
