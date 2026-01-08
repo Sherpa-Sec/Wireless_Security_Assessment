@@ -47,5 +47,5 @@ Conducted a security assessment of a home Wi-Fi network and compared it against 
 
 | Order | Document            | Description                               | Link                                                                 |
 | ----- | ------------------- | ----------------------------------------- | -------------------------------------------------------------------- |
-| 1     | Full Report         | Wireless security assessment and findings | [Open](./Wireless_Network_Security_Assessment_Report.pdf)            |
-| 2     | Evidence (Redacted) | Screenshots and supporting materials      | [Open](./Wireless_Network_Security_Assessment_Appendix_Redacted.pdf) |
+| 1     | Full Report         | Wireless security assessment and findings | [Open](./Wireless_Security_Assessment/blob/main/Report.md)            |
+| 2     | Evidence (Redacted) | Screenshots and supporting materials      | [Open](./Wireless_Security_Assessment/blob/main/Evidence.md) |
