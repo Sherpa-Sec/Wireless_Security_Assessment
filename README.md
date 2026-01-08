@@ -5,12 +5,12 @@ Conducted a security assessment of a home Wi-Fi network and compared it against 
 
 ## Table of Contents
 
- 1\. Overview <Br>
- 2\. Key Findings <Br>
- 3\. Mitigation Steps <Br>
- 4\. Result <Br>
- 5\. Skills Demonstrated <Br>
- 6\. Supporting Files <Br>
+> 1\. Overview <Br>
+> 2\. Key Findings <Br>
+> 3\. Mitigation Steps <Br>
+> 4\. Result <Br>
+> 5\. Skills Demonstrated <Br>
+> 6\. Supporting Files <Br>
 
 ## Key Findings
 - Network used **WPA2** encryption; **WPA3** was not enabled
