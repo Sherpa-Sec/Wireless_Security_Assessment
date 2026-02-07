@@ -65,4 +65,4 @@ The evidence section contained screenshots verifying:
 ---
 
 ## Conclusion
-This assessment demonstrated effective wireless security hardening practices and validated improvements through configuration review and supporting evidence. The home network was brought in line with recommended security standards and showed increased resilience against common wireless attacks.
+This project basically shows how small configuration changes can significantly improve wireless security. After reviewing and hardening the home Wi-Fi settings, the network aligned with recommended security practices and was less exposed to common wireless attacks. The results were verified through direct configuration review and captured evidence, confirming a stronger overall security posture. Since Wi-Fi is used daily, these practices can be applied by anyone to secure their home network better.
